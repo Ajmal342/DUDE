@@ -1,7 +1,7 @@
 {
-  "name": "Queen-Alexa",
+  "name": "𝕯𝖀𝕯𝕰",
   "version": "1.0.0",
-  "description": "Queen-Alexa",
+  "description": "𝕯𝖀𝕯𝕰",
   "main": "run.js",
   "directories": {
     "lib": "lib"
@@ -53,8 +53,8 @@
   "keywords": [
     "self bot wa"
   ],
-  "author": "Queen-Alexa",
+  "author": "𝕯𝖀𝕯𝕰",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://github.com/HYPER-MOD"
+  "homepage":" https://github.com/Ajmal342"
 }
