@@ -1,7 +1,7 @@
 {
-  "name": "𝕯𝖀𝕯𝕰",
+  "name": "dude",
   "version": "1.0.0",
-  "description": "𝕯𝖀𝕯𝕰",
+  "description": "dude",
   "main": "run.js",
   "directories": {
     "lib": "lib"
@@ -53,7 +53,7 @@
   "keywords": [
     "self bot wa"
   ],
-  "author": "𝕯𝖀𝕯𝕰",
+  "author": "dude",
   "license": "ISC",
   "bugs": {},
   "homepage":" https://github.com/Ajmal342"
